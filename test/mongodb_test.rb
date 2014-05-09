@@ -31,7 +31,7 @@ class I18nMongodbTest < Test::Unit::TestCase
   include I18n::Tests::Link
   include I18n::Tests::Lookup
   include I18n::Tests::Pluralization
-  include I18n::Tests::Procs if cae_store_procs?
+  include I18n::Tests::Procs if can_store_procs?
 
   include I18n::Tests::Localization::Date
   include I18n::Tests::Localization::DateTime
