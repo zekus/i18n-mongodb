@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/zekus/i18n-mongodb.svg)](https://travis-ci.org/zekus/i18n-mongodb)
+[![Gem Version](https://badge.fury.io/rb/i18n-mongodb.svg)](http://badge.fury.io/rb/i18n-mongodb)
 
 # I18n::Mongodb
 
