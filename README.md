@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/zekus/i18n-mongodb.svg)](https://travis-ci.org/zekus/i18n-mongodb)
+
 # I18n::Mongodb
 
 a simple Rails I18n backend using MongoDB
